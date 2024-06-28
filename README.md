@@ -3,11 +3,11 @@
 </p>
 
 ### INSTALL SCRIPT
-<pre><code>wget -q https://raw.githubusercontent.com/QuinStore/scpremium/main/main.sh && chmod +x main.sh && ./main.sh
+<pre><code>wget -q https://raw.githubusercontent.com/RetriVPNSTORE7/Tunnel/main/main.sh && chmod +x main.sh && ./main.sh
 </code></pre>
 
 ### UPDATE SCRIPT 
-<pre><code>wget -q https://raw.githubusercontent.com/QuinStore/scpremium/main/update.sh && chmod +x update.sh && ./update.sh
+<pre><code>wget -q https://raw.githubusercontent.com/RetriVPNSTORE7/Tunnel/main/update.sh && chmod +x update.sh && ./update.sh
 </code></pre>
 
 ### TESTED ON OS 
@@ -15,4 +15,4 @@
 - UBUNTU 20.04.05
 
 ### SEWA SCRIPT
-<a href="https://t.me/@gratiss1" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6285158699250" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+<a href="https://t.me/gratiss1" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6285158699250" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
