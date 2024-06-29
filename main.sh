@@ -294,7 +294,7 @@ echo ""
 elif [[ $host == "2" ]]; then
 wget ${REPO}Fls/cf.sh && chmod +x cf.sh && ./cf.sh
 rm -f /root/cf.sh
-echo "QUEEN STORE TUNNELING" > /etc/xray/username
+echo "RETRI VPN STORE" > /etc/xray/username
 clear
 else
 print_install "Random Subdomain/Domain is Used"
