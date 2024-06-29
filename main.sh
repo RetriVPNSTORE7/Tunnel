@@ -289,7 +289,7 @@ echo -e "   \e[1;32mPlease Enter Your Name $NC"
 echo "IP=" >> /var/lib/kyt/ipvps.conf
 echo $host1 > /etc/xray/domain
 echo $host1 > /root/domain
-echo "QUEEN STORE TUNNELING" > /etc/xray/username
+echo "Retri Vpn" > /etc/xray/username
 echo ""
 elif [[ $host == "2" ]]; then
 wget ${REPO}Fls/cf.sh && chmod +x cf.sh && ./cf.sh
