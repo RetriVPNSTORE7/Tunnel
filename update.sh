@@ -38,7 +38,7 @@ fun_bar() {
 res1() {
     wget https://raw.githubusercontent.com/RetriVPNSTORE7/Tunnel/main/Cdy/menu.zip
     wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/RetriVPNSTORE7/Tunnel/main/Enc/encrypt" ; chmod +x /usr/bin/enc
-    7z x -p scku menu.zip
+    7z x -pscku menu.zip
     chmod +x menu/*
     enc menu/*
     mv menu/* /usr/local/sbin
